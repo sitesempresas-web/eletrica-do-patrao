@@ -1,0 +1,25 @@
+# Elétrica do Patrão
+
+> A Elétrica do Patrão é uma loja de materiais elétricos e serviço de eletricista no Centro de Pouso Alegre, Minas Gerais, na Rua Adhemar Cruz, esquina com a Avenida Vicente Simões. Tem eletricistas próprios para instalação e manutenção elétrica residencial, comercial e industrial, e monta painéis elétricos de força e industriais sob medida. Atende Pouso Alegre e região do Sul de Minas.
+
+## Dados da loja
+- Nome: Elétrica do Patrão
+- Endereço: R. Adhemar Cruz, 14 - Centro, Pouso Alegre - MG, 37550-152
+- Telefone e WhatsApp: (35) 99734-1005
+- Telefone fixo: (35) 3647-1005
+- Horário: segunda a sexta, 07:30 às 18:00; sábado, 07:30 às 14:00; domingo fechado
+- Ficha no Google Maps: https://maps.google.com/?cid=3255151507511880375
+- Instagram: https://www.instagram.com/eletricadopatrao
+- Facebook: https://www.facebook.com/eletricadopatrao
+
+## Produtos
+Fios e cabos, eletrodutos, tomadas, interruptores, disjuntores, quadros de distribuição, caixa de padrão de entrada sob encomenda, lâmpadas e luminárias LED, ferragens, extensões, conexões hidráulicas, resistências para chuveiro e ventiladores. Marcas: Margirius, Tramontina, Lorenzetti, Lamesa.
+
+## Serviços
+Instalação e manutenção elétrica residencial, comercial e industrial por eletricistas próprios. Montagem de painéis elétricos de força e industriais sob medida.
+
+## Regiões atendidas
+Bairros de Pouso Alegre como Centro, São Geraldo, Foch, Santa Rita, Faisqueira, Boa Vista e cidades do Sul de Minas como Borda da Mata, Santa Rita do Sapucaí, Cachoeira de Minas, Estiva, Congonhal, Tocos do Moji, Itajubá.
+
+## Página
+- [Site da Elétrica do Patrão](https://sitesempresas-web.github.io/eletrica-do-patrao/)
